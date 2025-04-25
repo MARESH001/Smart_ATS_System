@@ -1,0 +1,51 @@
+# Python
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.env
+
+# Virtual environment directories
+/venv/
+/.env/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Streamlit specific
+.streamlit/
+
+# mypy
+.mypy_cache/
+
+# testing
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.log
+
+# IDEs or Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# MacOS Finder settings
+.DS_Store
+
+# Windows installer files
+Thumbs.db

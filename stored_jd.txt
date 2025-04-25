@@ -1,0 +1,57 @@
+Location: Research Park, IIT Madras 
+Work Mode: Hybrid  
+Type: Full-time 
+Period: 6 Months 
+Experience: 2-4 years (or exceptional freshers with startup grit) 
+About QuantHive: 
+QuantHive is a data-driven technology company specializing in AI-powered financial analytics for investors, 
+traders, and enterprises. Our mission is to leverage machine learning and real-time data to enhance decision
+making in financial markets. With cutting-edge capabilities in predictive modeling, algorithmic trading support, 
+and data visualization, we empower hedge funds, financial institutions, and tech-savvy retail investors to stay 
+ahead in an ever-evolving financial ecosystem. 
+Job Overview   
+We are looking for a Full-Stack Developer to spearhead the development of our Minimum Viable Product 
+(MVP). This role involves overseeing the entire engineering lifecycle, from initial planning to final deployment. 
+You will collaborate closely with the founding team, taking charge of the technical execution of our platform 
+by integrating backend services, quantitative models, and front-end interfaces into a cohesive, scalable 
+architecture. 
+Key Responsibilities   
+ Design and create the complete MVP, which encompasses: 
+ Frontend dashboards for displaying research insights 
+ Backend APIs and data ingestion pipelines 
+ Basic user authentication, credit-based access, and role management 
+ Supervise the Software Development Life Cycle (SDLC), including planning, sprint management, testing, 
+and release cycles 
+ Ensure scalability and modularity in design, allowing the system to adapt seamlessly to business 
+requirements 
+ Set up CI/CD pipelines and manage initial DevOps practices, including containerization, deployment, and 
+monitoring 
+ Maintain a streamlined and efficient codebase while following best practices (e.g., version control, 
+documentation, testing) 
+ Collaborate with quantitative and business interns to integrate data models, content, and feedback loops 
+ Work closely with founders to quickly define and refine product specifications   
+Tech Stack (Preferred)   
+ Frontend: React / Next.js, TailwindCSS, Recharts / D3.js   
+ Backend: Node.js / Express OR Python (FastAPI / Django)   
+ Database: PostgreSQL / MongoDB   
+ Infrastructure & DevOps: Docker, GitHub Actions, Railway / Render / AWS   
+ Other Tools: Notion, GitHub Projects, Slack, Postman   
+What We're Looking For   
+ At least 2 years of experience in full-stack product development (internships and projects 
+considered if hands-on)   
+ Strong grasp of the Software Development Lifecycle (SDLC): Agile sprint planning, testing, and 
+code reviews   
+QuantHive 
+FULL-STACK DEVELOPER – JOB ROLE 
+ Basic understanding of DevOps fundamentals: CI/CD pipelines, version control, containerization, 
+and basic cloud deployment   
+ Familiarity with System Design principles: modular architecture, database schema design, API 
+versioning, and rate-limiting   
+ Capability to work independently and iterate swiftly in a lean, uncertain environment   
+ Bonus: Experience in developing internal tools, financial dashboards, or API-first products   
+Why Join Us   - - - - 
+Direct access to founders and the chance to influence product strategy   
+High-ownership environment with potential pathways to becoming a Tech Lead or early CTO   
+Early equity (ESOPs) along with exposure to investors   
+Freedom to shape the technology stack and cultivate the engineering culture   
+Opportunity to build a fintech product from the ground up to launch.
